@@ -1,0 +1,28 @@
+name: theRoyalFlush
+favicon: null
+layout_spectrum: 0.8497463688254356
+typography_spectrum: 0.24435268808156252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.04327495023608208
+  lightness: 0.812584777828306
+  saturation: 0.21868580393493176
+  rhythmicContrast: 0.051194191444665194
+purpose: []
